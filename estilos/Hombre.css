@@ -1,0 +1,101 @@
+/*Hombre*/
+*{
+    padding: 0;
+    margin: 0;
+    Box-sizing: border-box;
+}
+body{
+    padding: 0;
+    background-color: rgb(232,224,176);
+    font-family: berlin sans FB Demi ;
+    font-size: 15px;
+}
+.LOGO{
+    Width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 20 px;
+    left: 10px;
+    display: inline-block;
+
+}
+.INSTAGRAM{
+    Width: 100px;
+    height: -20px;
+    position: relative;
+    top: 20 px;
+    left: 1300px;
+    background-color: gray;
+}
+.FACEBOOK{
+    Width: 100px;
+    height: 20px;
+    position: relative;
+    top: 20 px;
+    left: 1300px;
+    background-color: gray;
+}
+ul{
+    border: 2px solid;
+    padding: 1em;
+    liit-style:none;
+    text-align: center;
+    font-size:20px;
+    top: 5 px;
+    left: 20 px;
+}
+li {
+    padding:10px 10px 10px 10px;
+    margin-top: 20px;
+    margin-left: 70px;
+    text-align: center;
+    display: inline-block;
+    font: size 20px;
+    font-family: Impact sans-serif;
+    font-weight: normal;    
+}
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100px;
+    align-items: stretch;
+
+}
+.formato{
+    MARGIN: 60PX;
+    position:relative;
+    text-align: center;
+    Width: 500px;
+    left:500px;
+}
+img{
+    DISPLAY: FLEX;
+    text-align:center;
+    justify-content: flex-end;
+}
+.IMG5{
+   text-align:center;
+    background-color:gray;
+    margin:1px;
+}
+.IMG3{
+    text-align:center;
+     background-color:gray;
+     margin:1px;
+ }
+ .IMG2{
+    text-align:center;
+     background-color:gray;
+     margin:1px;
+ }
+ .IMG1{
+    text-align:center;
+     background-color:gray;
+     margin:1px;
+ }
+.imagen1{
+    position:relative;
+    TOP: 0px;
+    left:500px;
+}
